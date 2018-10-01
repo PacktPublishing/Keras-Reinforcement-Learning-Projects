@@ -48,10 +48,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Transfer Learning with Python [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-transfer-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788831307 ) [[Amazon]](https://www.amazon.com/dp/1788831306)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Giuseppe Ciaburro**
 Giuseppe Ciaburro holds a PhD in environmental technical physics and two master's degrees. His research focuses on machine learning applications in the study of urban sound environments. He works at Built Environment Control Laboratory – Università degli Studi della Campania Luigi Vanvitelli (Italy). He has over 15 years of work experience in programming (in Python, R, and MATLAB), first in the field of combustion and then in acoustics and noise control. He has several publications to his credit.
