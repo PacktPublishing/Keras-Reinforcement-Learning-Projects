@@ -5,8 +5,8 @@ print("***********************************")
 objects = filter(lambda x: x[0]<=P, objects)
 objects = sorted(objects, key=lambda x: x[1]/x[0], reverse=True)
 weight, value, subset = 0, 0, []
-print("Items filtered and sorted: ",objects)prin
-t("***********************************")
+print("Items filtered and sorted: ",objects)
+print("***********************************")
 for item in objects:
     if weight + item[0] <= P:
         weight = weight + item[0]
