@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B10947?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Keras Reinforcement Learning Projects
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/keras-reinforcement-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789342093 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789342093_.png" alt="Keras Reinforcement Learning Projects" height="256px" align="right"></a>
